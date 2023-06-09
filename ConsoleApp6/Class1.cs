@@ -10,7 +10,7 @@ namespace ConsoleApp6
     {
         public void MyProperty()
         {
-            Console.WriteLine("Hello, zelal!");
+            Console.WriteLine("Hello, zel!");
 
         }
     }
